@@ -19,3 +19,16 @@ out/
 
 # Ignore logs
 *.log
+
+# Ignore OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Ignore backup or temp files
+*.orig
+*.tmp
+
+# Ignore local override property files
+*.build.properties
+*.target.properties
